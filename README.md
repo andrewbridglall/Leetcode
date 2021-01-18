@@ -1,5 +1,7 @@
 # Leetcode Practice
 
+<img src="logo.jpeg" width="500">
+
 ## Topics
 
 1. Arrays and Strings
